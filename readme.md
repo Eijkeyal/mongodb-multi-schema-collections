@@ -46,7 +46,7 @@ This script automates the creation of seven MongoDB collections for different ap
 ```
 
 ## 📦 Project Structure
-mongodb-multi-collection-setup/
+```mongodb-multi-collection-setup/
 │
 ├── config/
 │   └── db.js                         # Database connection configuration
