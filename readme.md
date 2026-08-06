@@ -46,3 +46,23 @@ This script automates the creation of seven MongoDB collections for different ap
 ```
 
 ## 📦 Project Structure
+mongodb-multi-collection-setup/
+│
+├── config/
+│   └── db.js                         # Database connection configuration
+│
+├── models/
+│   ├── studentManagementSchema.js    # Student collection schema
+│   ├── hospitalPatientSchema.js      # Patient collection schema
+│   ├── jobPortalSchema.js            # Job collection schema
+│   ├── recipeAppSchema.js            # Recipe collection schema
+│   ├── socualMediaSchema.js          # Social media collection schema
+│   ├── onlineCourseSchema.js         # Course collection schema
+│   └── ecommercceProductSchema.js    # Product collection schema
+│
+├── .env                              # Environment variables (gitignored)
+├── .env.example                      # Example environment variables
+├── .gitignore                        # Git ignore rules
+├── index.js                          # Main setup script
+├── package.json                      # Dependencies and scripts
+└── README.md                         # Project documentation
