@@ -66,3 +66,4 @@ This script automates the creation of seven MongoDB collections for different ap
 ├── index.js                          # Main setup script
 ├── package.json                      # Dependencies and scripts
 └── README.md                         # Project documentation
+```
