@@ -45,7 +45,7 @@ This script automates the creation of seven MongoDB collections for different ap
    # MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/database_name
 ```
 
-## 📦 Project Structure
+## Project Structure
 ```mongodb-multi-collection-setup/
 │
 ├── config/
